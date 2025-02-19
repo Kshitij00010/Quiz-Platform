@@ -37,7 +37,7 @@ This will launch the app at **`http://localhost:5173/`** (or another available p
 ---
 
 ## 🌍 Live Demo
-🔗 **Deployed App:** [Click Here](https://your-deployed-link.com)  
+🔗 **Deployed App:** [Click Here](https://quiz-platform-sage.vercel.app/)  
 
 ---
 
