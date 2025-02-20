@@ -42,6 +42,7 @@ This will launch the app at **`http://localhost:5173/`** (or another available p
 ---
 
 ## 📂 Project Structure
+```sh
 Directory structure:
 └── kshitij00010-quiz-platform/
     ├── README.md
@@ -66,9 +67,7 @@ Directory structure:
         │   └── QuizPage.jsx
         └── utils/
             └── indexedDB.js
-
-
----
+```
 
 ## 📝 Future Enhancements
 
