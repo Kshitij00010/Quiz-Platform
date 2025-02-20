@@ -31,9 +31,9 @@ export default function Navbar() {
         </ul>
 
         {/* Dark Mode Toggle */}
-        <button onClick={() => setDarkMode(!darkMode)} className="p-2 rounded-full bg-gray-200 dark:bg-gray-800">
+{/*         <button onClick={() => setDarkMode(!darkMode)} className="p-2 rounded-full bg-gray-200 dark:bg-gray-800">
           {darkMode ? <Sun className="text-yellow-400" /> : <Moon className="text-gray-600" />}
-        </button>
+        </button> */}
       </div>
     </nav>
   );
