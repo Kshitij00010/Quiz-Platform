@@ -42,17 +42,31 @@ This will launch the app at **`http://localhost:5173/`** (or another available p
 ---
 
 ## 📂 Project Structure
-```
-/quiz-platform
-│── /public            # Static assets
-│── /src
-│   ├── /components    # Reusable UI components
-│   ├── /pages         # Quiz & Home page components
-│   ├── App.jsx        # Main app file
-│   ├── index.jsx      # Entry point
-│── package.json       # Dependencies & scripts
-│── README.md          # Documentation
-```
+Directory structure:
+└── kshitij00010-quiz-platform/
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    ├── public/
+    └── src/
+        ├── App.css
+        ├── App.jsx
+        ├── index.css
+        ├── main.jsx
+        ├── assets/
+        ├── components/
+        │   ├── Navbar.jsx
+        │   └── QuestionCard.jsx
+        ├── data/
+        │   └── quizData.js
+        ├── pages/
+        │   ├── Home.jsx
+        │   └── QuizPage.jsx
+        └── utils/
+            └── indexedDB.js
+
 
 ---
 
